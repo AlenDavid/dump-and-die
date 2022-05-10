@@ -3,9 +3,10 @@
   "version": "1.0.0",
   "description": "Dump and die. Yes, thank you, Laravel.",
   "main": "lib/index.js",
-  ""
   "keywords": [
-    "dump;die;and;"
+    "dump",
+    "and",
+    "die"
   ],
   "author": "David Alen <davidalen.dev@gmail.com>",
   "license": "ISC"
